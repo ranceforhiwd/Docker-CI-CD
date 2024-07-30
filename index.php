@@ -1,4 +1,3 @@
 <?php
-    //testing
-    return 1;
+    echo 'hello world';
 ?>
