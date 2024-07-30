@@ -30,5 +30,4 @@ RUN composer require aws/aws-sdk-php
 RUN apt-get install -y libpq-dev \
     && docker-php-ext-install pgsql pdo_pgsql pdo
  
-#WORKDIR /usr/run/php
 #CMD [ "php", "index.php" ]
