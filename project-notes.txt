@@ -1,1 +1,3 @@
 This is a section in my project repositories where my notes can be downloaded
+I noticed that buildspec.yml is the same as a Jendins file where the stages
+of deployment are detailed.
